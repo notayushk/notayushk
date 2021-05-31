@@ -24,6 +24,6 @@ First of all,Thanks alot for visiting my page.I am **Ayush Kumar from Delhi,Indi
 
 ## 📈 My GitHub Stats
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush4385&theme=onedark&include_all_commits=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush4385&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayush4385&theme=onedark)](https://git.io/streak-stats)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush4385&theme=algolia&include_all_commits=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush4385&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayush4385&theme=algolia)](https://git.io/streak-stats)
