@@ -11,8 +11,10 @@ First of all,Thanks alot for visiting my page.I am **Ayush Kumar from Delhi,Indi
 <li> 😴 Dream Project: A search engine </li>
 <li> 💻 Language I am Learning: C# </li>
 </ul>
+<img src="code2.gif">
 
 ## 🔗 Connect With Me
+
 <a href="https://github.com/Ayush4385">
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
