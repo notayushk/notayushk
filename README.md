@@ -9,7 +9,7 @@ First of all,Thanks alot for visiting my page.I am **Ayush Kumar from Delhi,Indi
 <li> 🔧 Current Project: Discord Bot </li>
 <li> ❤ Preference: JavaScript Projects </li>
 <li> 😴 Dream Project: A search engine </li>
-<li> 💻 Language I am Learning: C# </li>
+<li> 💻 Language I am Learning: C++ </li>
 </ul>
 <img src="code2.gif">
 
