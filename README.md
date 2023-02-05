@@ -24,5 +24,5 @@ First of all,Thanks alot for visiting my page.I am **Ayush from India**.I am a m
 
 ## 📈 My GitHub Stats
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush4385&include_private=true&include_all_commits=true&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush4385&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=iayushk10&include_private=true&include_all_commits=true&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iayushk10&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
