@@ -15,12 +15,13 @@ First of all,Thanks alot for visiting my page.I am **Ayush Kumar from Delhi,Indi
 
 ## 🔗 Connect With Me
 
-<a href="https://github.com/Ayush4385">
+<a href="https://github.com/iayushk10">
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://youtube.com/@imcodin">
-<img alt="YouTube" src="https://img.shields.io/badge/The Coding Hill-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+<img alt="YouTube" src="https://img.shields.io/badge/Codin-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
+
 ## 📈 My GitHub Stats
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush4385&include_private=true&include_all_commits=true&show_icons=true&theme=github_dark)
